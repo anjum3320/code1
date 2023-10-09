@@ -1,1 +1,2 @@
-# code1
+#include<stdio.h>
+printf("Hello world");
